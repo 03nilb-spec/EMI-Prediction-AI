@@ -96,7 +96,7 @@ xgboost
 ```
 ---
 ## Author
-**Nilesh Bahirgaonkar**
+#### **Nilesh Bahirgaonkar**
 Data Scientist 
 - gmail - nileshbahirgaonkar1494@gmail.com
-- 
+-  [LinkedIn Profile](https://www.linkedin.com/in/nilesh-bahirgaonkar/)
